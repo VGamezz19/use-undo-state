@@ -1,7 +1,7 @@
 {
-	"name": "useundostate",
+	"name": "use-undo-state",
 	"version": "0.0.1",
-	"description": "RollBack state",
+	"description": "Roll back your state!",
 	"scripts": {
 		"test": "cross-env NODE_ENV=test yarn lint && jest --coverage",
 		"test:watch": "cross-env NODE_ENV=test jest --watch",
