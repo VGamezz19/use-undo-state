@@ -74,12 +74,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/VGamezz19/useUndoState.git"
+		"url": "git+https://github.com/VGamezz19/use-undo-state.git"
 	},
 	"author": "Victor Gamez",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/VGamezz19/useUndoState/issues"
+		"url": "https://github.com/VGamezz19/use-undo-state/issues"
 	},
-	"homepage": "https://github.com/VGamezz19/useUndoState#readme"
+	"homepage": "https://github.com/VGamezz19/use-undo-state#readme"
 }
