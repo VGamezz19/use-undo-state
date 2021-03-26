@@ -1,5 +1,5 @@
 {
 	"parser": "babel-eslint",
-	"extends": ["react-app", "react-app/jest"],
+	"extends": ["react-app"],
 	"plugins": ["react-hooks"]
 }
